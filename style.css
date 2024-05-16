@@ -39,6 +39,10 @@ li {
     font-size: 18px;
 }
 
+.sign-up {
+    background-color: #3882F6;
+}
+
 img {
     width: 25%;
     height: auto;
