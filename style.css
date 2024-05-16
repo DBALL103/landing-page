@@ -20,6 +20,11 @@ li {
     list-style-type: none;
 }
 
+.links {
+    display: flex;
+    gap: 10px;
+}
+
 .headers {
     display: flex;
 }
