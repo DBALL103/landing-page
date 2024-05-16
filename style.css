@@ -47,3 +47,7 @@ img {
     width: 25%;
     height: auto;
 }
+
+.hero-bottom {
+    display: flex;
+}
