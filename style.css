@@ -9,11 +9,10 @@ body {
 }
 
 .logo {
-    color: #f9faf8;
+    font-size: 24px; 
 }
 
 a {
-    font-size: 18px;
     text-decoration: none;
 }
 
@@ -37,5 +36,10 @@ li {
 
 .subtext, a {
     color: #e5e7eb;
-    font-size: 24px; 
+    font-size: 18px;
+}
+
+img {
+    width: 25%;
+    height: auto;
 }
