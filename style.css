@@ -22,3 +22,7 @@ a {
 li {
     list-style-type: none;
 }
+
+.headers {
+    display: flex;
+}
