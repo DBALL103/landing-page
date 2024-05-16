@@ -51,3 +51,8 @@ img {
 .hero-bottom {
     display: flex;
 }
+
+.hero-bottom-left {
+    display: flex;
+    flex-direction: column;
+}
