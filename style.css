@@ -17,3 +17,7 @@ a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+li {
+    list-style-type: none;
+}
