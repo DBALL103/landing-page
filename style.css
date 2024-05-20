@@ -55,6 +55,7 @@ li {
 img {
     width: 25%;
     height: auto;
+
 }
 
 .hero-bottom {
@@ -80,4 +81,10 @@ img {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+}
+
+.illustration-boxes {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
 }
