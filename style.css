@@ -27,6 +27,7 @@ li {
 
 .headers {
     display: flex;
+    align-items: baseline;
 }
 
 .main-title {
