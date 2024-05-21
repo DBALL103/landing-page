@@ -82,3 +82,7 @@ img {
     font-weight: bolder;
     color: #1f2937;
 }
+
+.info-container {
+    display: flex;
+}
