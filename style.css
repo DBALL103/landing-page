@@ -91,7 +91,7 @@ img {
 
 .illustration-boxes, .illustration-subtext {
     display: flex;
-    gap: 20px;
+    gap: 30px;
 }
 
 .illustration-subtext p {
