@@ -95,7 +95,8 @@ img {
 }
 
 .illustration-subtext p {
-    width: 100px;
+    width: 115px;
     text-align: center;
     margin: 2px;
+    line-height: 1;
 }
