@@ -121,4 +121,5 @@ img {
     display: flex;
     justify-content: flex-end;
     margin: 0 200px 100px auto;
+    font-weight: bold;
 }
