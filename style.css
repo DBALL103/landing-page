@@ -82,10 +82,3 @@ img {
     font-weight: bolder;
     color: #1f2937;
 }
-
-.illustration-boxes, .illustration-subtext {
-    display: flex;
-    justify-content: center;
-    gap: 50px;
-}
-
