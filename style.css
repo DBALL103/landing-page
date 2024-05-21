@@ -103,6 +103,8 @@ img {
 
 .quote-section {
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote-text {
@@ -110,4 +112,12 @@ img {
     font-style: italic;
     font-weight: lighter;
     color: #1f2937;
+    display: flex;
+    justify-content: center;
+    margin: 85px;
+}
+
+.quote-by {
+    display: flex;
+    justify-content: flex-end;
 }
