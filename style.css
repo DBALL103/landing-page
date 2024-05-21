@@ -94,3 +94,6 @@ img {
     gap: 20px;
 }
 
+.illustration-subtext p {
+    width: 100px;
+}
