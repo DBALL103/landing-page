@@ -69,6 +69,7 @@ img {
 .hero-bottom-left {
     display: flex;
     flex-direction: column;
+    margin-left: 50px;
 }
 
 .illustration {
@@ -171,4 +172,8 @@ img {
     font-size: 12px;
     display: flex;
     justify-content: center;
+}
+
+.headers, .hero-bottom {
+    margin: auto 100px;
 }
