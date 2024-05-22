@@ -133,19 +133,6 @@ img {
     background-color: #3882F6;
 }
 
-.call-to-action-text {
-    display: flex;
-    flex-direction: column;
-}
-
-.call-to-action-text h3 {
-    margin-bottom: 0;
-}
-
-.call-to-action-text p {
-    margin-top: 0;
-}
-
 .call-to-action-box button {
     background-color: #3882F6;
     width: 82px;
@@ -153,4 +140,10 @@ img {
     border: solid 1px white;
     border-radius: 5px;
     color: white;
+}
+
+.call-to-action-box {
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start; */
 }
