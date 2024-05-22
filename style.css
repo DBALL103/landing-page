@@ -132,3 +132,9 @@ img {
 .call-to-action-box {
     background-color: #3882F6;
 }
+
+.call-to-action-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+}
