@@ -50,7 +50,7 @@ li {
 .sign-up {
     background-color: #3882F6;
     width: 82px;
-    height: 20px;
+    height: 22px;
     border: none;
     border-radius: 5px;
     color: white;
@@ -127,4 +127,8 @@ img {
     margin: 0 200px 100px auto;
     font-weight: bold;
     font-size: 18px;
+}
+
+.call-to-action-box {
+    background-color: #3882F6;
 }
