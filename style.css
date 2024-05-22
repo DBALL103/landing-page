@@ -147,6 +147,8 @@ img {
     flex-direction: column;
     margin: 100px;
     border-radius: 5px;
+    padding: 20px 50px;
+    gap: 10px;
 }
 
 .call-to-action-content {
