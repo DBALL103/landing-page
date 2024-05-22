@@ -165,3 +165,10 @@ img {
 .footer {
     background-color: #1f2937;
 }
+
+.footer h6 {
+    color: #f9faf8;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+}
