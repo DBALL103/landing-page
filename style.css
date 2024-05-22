@@ -148,11 +148,11 @@ img {
     margin: 100px;
     border-radius: 5px;
     padding: 20px 50px;
-    gap: 10px;
 }
 
 .call-to-action-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 0;
 }
