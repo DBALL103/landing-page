@@ -146,6 +146,7 @@ img {
     display: flex;
     flex-direction: column;
     /* align-items: flex-start; */
+    margin: 100px;
 }
 
 .call-to-action-content {
