@@ -156,3 +156,7 @@ img {
     align-items: center;
     margin-top: 0;
 }
+
+.call-to-action-header h3 {
+    margin-bottom: 0;
+}
